@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Pavle\Desktop\objektno domaci\zadatak 2\vezba3\datum.h(33,8): warning C4552: '<': result of expression not used
+C:\Users\Pavle\Desktop\objektno domaci\zadatak 2\vezba3\datum.h(34,8): warning C4552: '<': result of expression not used
+C:\Users\Pavle\Desktop\objektno domaci\zadatak 2\vezba3\datum.h(40,8): warning C4552: '-': result of expression not used
+C:\Users\Pavle\Desktop\objektno domaci\zadatak 2\vezba3\datum.h(41,8): warning C4552: '-': result of expression not used
+C:\Users\Pavle\Desktop\objektno domaci\zadatak 2\vezba3\automobil.h(33,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pavle\Desktop\objektno domaci\zadatak 2\vezba3\datum.h(66): warning C4715: 'Datum::operator[]': not all control paths return a value
+C:\Users\Pavle\Desktop\objektno domaci\zadatak 2\vezba3\automobil.h(34): warning C4715: 'Automobil::cenaPoDanu': not all control paths return a value
+  vezba3.vcxproj -> C:\Users\Pavle\Desktop\objektno domaci\zadatak 2\Debug\vezba3.exe
